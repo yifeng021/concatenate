@@ -1,0 +1,4 @@
+"Tue, Mar 3, 2020 5:17 PM"												
+												
+DUT ID	SKEW	STATION	SET TEMP	ADC TYPE	SUPPLY LEVEL	LO	pf json load	pf rxcal	pf txcal	status	error code	error source
+150	0	2	-40	0	0	50000000	1	1	1	1	0	
